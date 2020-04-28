@@ -1,0 +1,9 @@
+C:\Users\minhchen\notes\powershell\modules\myModule\bin\Debug\netstandard2.0\myModule.deps.json
+C:\Users\minhchen\notes\powershell\modules\myModule\bin\Debug\netstandard2.0\myModule.dll
+C:\Users\minhchen\notes\powershell\modules\myModule\bin\Debug\netstandard2.0\myModule.pdb
+C:\Users\minhchen\notes\powershell\modules\myModule\obj\Debug\netstandard2.0\myModule.csprojAssemblyReference.cache
+C:\Users\minhchen\notes\powershell\modules\myModule\obj\Debug\netstandard2.0\myModule.csproj.CoreCompileInputs.cache
+C:\Users\minhchen\notes\powershell\modules\myModule\obj\Debug\netstandard2.0\myModule.AssemblyInfoInputs.cache
+C:\Users\minhchen\notes\powershell\modules\myModule\obj\Debug\netstandard2.0\myModule.AssemblyInfo.cs
+C:\Users\minhchen\notes\powershell\modules\myModule\obj\Debug\netstandard2.0\myModule.dll
+C:\Users\minhchen\notes\powershell\modules\myModule\obj\Debug\netstandard2.0\myModule.pdb

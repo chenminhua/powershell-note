@@ -1,0 +1,8 @@
+- dotnet new -i Microsoft.PowerShell.Standard.Module.Template
+- mkdir myModule
+- cd myModule
+- dotnet new psmodule
+- dotnet build
+- ipmo .\bin\Debug\netstandard2.0\myModule.dll
+- Test-SampleCmdlet -?
+- Test-SampleCmdlet -FavoriteNumber 7 -FavoritePet Cat

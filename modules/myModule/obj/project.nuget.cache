@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lo9ES+gf2csS4mn1XHvrGk5SVVEyKgASck2IwA+YDuco4p471vXAaSI8Q+lITdz9X1ywX9+jcfudTfLgXFtNLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minhchen\\notes\\powershell\\modules\\myModule\\myModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minhchen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\minhchen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\minhchen\\.nuget\\packages\\powershellstandard.library\\5.1.0-preview-06\\powershellstandard.library.5.1.0-preview-06.nupkg.sha512"
+  ],
+  "logs": []
+}
